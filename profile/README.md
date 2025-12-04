@@ -8,7 +8,7 @@ In the backend repo, run:
 cd backend
 go run cmd/api/main.go
 
-###Run frontend
+### Run frontend
 In the frontend repo, run:
 cd frontend/frontend
 npm install
